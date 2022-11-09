@@ -11,6 +11,7 @@ $(function () {
   const ten = $("#hour-ten");
   const eleven = $("#hour-eleven");
   const twelve = $("#hour-twelve");
+  
   let heroInterval = setInterval(function () {
     currentD.text(dayjs().format("dddd, MMMM D YYYY"));
   }, 1000);
