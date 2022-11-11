@@ -29,7 +29,7 @@ The user can add text into any of these inputs then click the save function to s
 
 As shown below for brevity the times that are red have already past, the time in grey is the current hour and the times in green are future times as shown below:
 
-![screenshot](/assets/images/.png)
+![screenshot](/assets/images/colors.png)
 
 
 ## License
